@@ -15,6 +15,9 @@ A pie chart that breaks down sales by category to show the proportion of revenue
 ### 4. Orders by Delivery/Pickup
 A pie chart that visualizes the proportion of orders fulfilled via delivery or pickup, offering insights into customer preferences.
 
+<img width="1400" alt="Screenshot 2025-02-04 at 19 25 34" src="https://github.com/user-attachments/assets/b9a91ce8-61a6-4172-a346-20b61ab58313" />
+For full-version dashboard: https://public.tableau.com/app/profile/rafi.aqila.hidayat/viz/orders_activity/CustomersOrders
+
 ## SQL Overview
 I utilize SQL to manage and analyze data. Below are the key SQL files included in this repository:
 - pizzeriadb.sql: This file contains SQL queries used to create the database schema and necessary tables (e.g., orders, customers, items, etc.).
@@ -22,9 +25,6 @@ I utilize SQL to manage and analyze data. Below are the key SQL files included i
 - pizzeriadashboard_inventory_management.sql: A query designed to calculate inventory usage, item costs, and remaining stock levels based on customer orders.
 - pizzeriadashboard_staff.sql: SQL queries to analyze staff shifts, working hours, and calculate staff cost per shift.
   
-<img width="1400" alt="Screenshot 2025-02-04 at 19 25 34" src="https://github.com/user-attachments/assets/b9a91ce8-61a6-4172-a346-20b61ab58313" />
-For full-version dashboard: https://public.tableau.com/app/profile/rafi.aqila.hidayat/viz/orders_activity/CustomersOrders
-
 ### Acknowledgment
 The materials and data used in this project were obtained from the following YouTube tutorial:
 https://www.youtube.com/watch?v=0rB_memC-dA || Adam Finer - Learn BI Online
