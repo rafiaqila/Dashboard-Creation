@@ -3,10 +3,10 @@
 This project is a data dashboard for visualizing COVID-19 statistics across various countries and continents. It uses data from multiple sources to provide insightful metrics on global health. The dashboard utilizes SQL queries to aggregate and process data, and then visualizes this data in an interactive format.
 
 ## Dashboard Overview
-### 1. Global Data Metrics: Displays the total number of COVID-19 cases, deaths, infection rates, and vaccination percentages worldwide.
-### 2. Country-Specific Insights: Provides detailed statistics on COVID-19 cases, deaths, and vaccination rates per country.
-### 3. Visual Analytics: Utilizes interactive charts and maps to show data such as infection percentages, fatality rates, and the spread of the disease globally.
-### 4. Continent-Wise Data: View statistics by continents and compare them visually.
+- Global Data Metrics: Displays the total number of COVID-19 cases, deaths, infection rates, and vaccination percentages worldwide.
+- Country-Specific Insights: Provides detailed statistics on COVID-19 cases, deaths, and vaccination rates per country.
+- Visual Analytics: Utilizes interactive charts and maps to show data such as infection percentages, fatality rates, and the spread of the disease globally.
+- Continent-Wise Data: View statistics by continents and compare them visually.
 
 <img width="1680" alt="Screenshot 2025-02-09 at 21 00 43" src="https://github.com/user-attachments/assets/94316c2d-f6b9-49be-a42c-589ab4e9bd6a" />
 For full-version dashboard: https://public.tableau.com/app/profile/rafi.aqila.hidayat/viz/COVID-19WorldwideDataDashboard/Dashboard
