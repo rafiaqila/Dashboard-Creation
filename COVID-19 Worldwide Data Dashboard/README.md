@@ -1,2 +1,26 @@
-<div class='tableauPlaceholder' id='viz1739107608927' style='position: relative'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CO&#47;COVID-19WorldwideDataDashboard&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='COVID-19WorldwideDataDashboard&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CO&#47;COVID-19WorldwideDataDashboard&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1739107608927');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1677px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+# COVID-19 Worldwide Data Dashboard
+
+This project is a data dashboard for visualizing COVID-19 statistics across various countries and continents. It uses data from multiple sources to provide insightful metrics on global health. The dashboard utilizes SQL queries to aggregate and process data, and then visualizes this data in an interactive format.
+
+## Dashboard Overview
+### 1. Global Data Metrics: Displays the total number of COVID-19 cases, deaths, infection rates, and vaccination percentages worldwide.
+### 2. Country-Specific Insights: Provides detailed statistics on COVID-19 cases, deaths, and vaccination rates per country.
+### 3. Visual Analytics: Utilizes interactive charts and maps to show data such as infection percentages, fatality rates, and the spread of the disease globally.
+### 4. Continent-Wise Data: View statistics by continents and compare them visually.
+
+<img width="1680" alt="Screenshot 2025-02-09 at 20 25 50" src="https://github.com/user-attachments/assets/6a6feb45-a641-42d6-8ea4-137ca17f12e0" />
 For full-version dashboard: https://public.tableau.com/views/COVID-19WorldwideDataDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## SQL Overview
+I use SQL to do an exploratory data analysis and also create views to be used in Tableau for visualizations. Below are the SQL queries I wrote in this project:
+- Fatality Rate Percentage: This query calculates the global fatality rate based on the number of new deaths and cases
+- Population Infected Percentage: Determines the percentage of the population that has been infected by calculating the ratio of infected people to total population.
+- Country with the Highest Infection Rate: Finds the country with the highest infection rate by analyzing the ratio of total cases to population.
+- Country with the Highest Fatality Rate After Total Cases Hit 1000: A detailed query calculating the fatality percentage for countries where the total number of cases exceeds 1000.
+- Continent with the Highest Death Count: Identifies the continent with the highest total deaths.
+- Daily Hospitalized Rate, ICU Rate, and Bed Occupancy Rate: Monitors hospital usage by calculating the rates of hospitalization, ICU patients, and the bed occupancy rate based on the available data.
+- Vaccination Progress: Tracks vaccination progress by showing the percentage of people vaccinated in different countries and regions.
+
+### Acknowledgement
+The materials and data used in this project were obtained from the following YouTube tutorial:
+https://www.youtube.com/watch?v=QILNlRvJlfQ || Alex The Analyst on YouTube.
