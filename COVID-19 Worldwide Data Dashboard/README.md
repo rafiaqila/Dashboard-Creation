@@ -8,8 +8,8 @@ This project is a data dashboard for visualizing COVID-19 statistics across vari
 ### 3. Visual Analytics: Utilizes interactive charts and maps to show data such as infection percentages, fatality rates, and the spread of the disease globally.
 ### 4. Continent-Wise Data: View statistics by continents and compare them visually.
 
-<img width="1680" alt="Screenshot 2025-02-09 at 20 25 50" src="https://github.com/user-attachments/assets/6a6feb45-a641-42d6-8ea4-137ca17f12e0" />
-For full-version dashboard: https://public.tableau.com/views/COVID-19WorldwideDataDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+<img width="1680" alt="Screenshot 2025-02-09 at 21 00 43" src="https://github.com/user-attachments/assets/94316c2d-f6b9-49be-a42c-589ab4e9bd6a" />
+For full-version dashboard: https://public.tableau.com/app/profile/rafi.aqila.hidayat/viz/COVID-19WorldwideDataDashboard/Dashboard
 
 ## SQL Overview
 I use SQL to do an exploratory data analysis and also create views to be used in Tableau for visualizations. Below are the SQL queries I wrote in this project:
