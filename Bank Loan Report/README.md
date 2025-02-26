@@ -7,24 +7,12 @@ The dashboard leverages the bank loan data stored in the bank_loan table, which 
 
 ### 1. Summary Dashboard
 <img width="1366" alt="Screenshot 2025-02-26 at 13 29 27" src="https://github.com/user-attachments/assets/556ffc44-1aed-46e8-a57a-09f5bef695c0" />
-The Summary Dashboard provides high-level KPIs for loan applications, funded amounts, and received amounts, as well as the average interest rate and Debt-to-Income (DTI) ratio. It also compares the performance of "Good Loans" (Fully Paid or Current) versus "Bad Loans" (Charged Off). Key Metrics:
-- Total Loan Applications
-- Total Funded Amount
-- Total Amount Received
-- Average Interest Rate
-- Average DTI
-- Good Loan vs Bad Loan metrics (Applications, Funded Amount, Received Amount)
+The Summary Dashboard provides high-level KPIs for loan applications, funded amounts, and received amounts, as well as the average interest rate and Debt-to-Income (DTI) ratio. It also compares the performance of "Good Loans" (Fully Paid or Current) versus "Bad Loans" (Charged Off). Key Metrics: Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, Average DTI, and Good Loan vs Bad Loan metrics (Applications, Funded Amount, Received Amount)
 
 ### 2. Overview Dashboard
 <img width="1364" alt="Screenshot 2025-02-26 at 13 29 43" src="https://github.com/user-attachments/assets/e7a5eff7-0a09-468c-ac78-5bfbac7a9b9e" />
 The Overview Dashboard provides monthly trends, regional analysis by state, loan term analysis, employment length analysis, loan purpose breakdown, and home ownership analysis.
-Key Features:
-- Monthly Trends by Issue Date
-- Regional Analysis by State
-- Long Term Analysis
-- Employee Length Analysis
-- Loan Purpose Breakdown
-- Home Ownership Analysis
+Key Features: Monthly Trends by Issue Date, Regional Analysis by State, Long Term Analysis, Employee Length Analysis, Loan Purpose Breakdown, and Home Ownership Analysis
 
 ### 3. Details Dashboard
 <img width="1364" alt="Screenshot 2025-02-26 at 13 29 59" src="https://github.com/user-attachments/assets/43934edc-dc9b-40fc-991b-dd39ce488b9d" />
