@@ -18,6 +18,8 @@ Key Features: Monthly Trends by Issue Date, Regional Analysis by State, Long Ter
 <img width="1364" alt="Screenshot 2025-02-26 at 13 29 59" src="https://github.com/user-attachments/assets/43934edc-dc9b-40fc-991b-dd39ce488b9d" />
 The Details Dashboard provides a granular view of individual loan applications, showing detailed information about each loan, including the loan ID, purpose, home ownership, grade, sub-grade, issue date, and the total loan amount.
 
+//
+
 For the full-version dashboard, please visit my Tableau Public page: https://public.tableau.com/app/profile/rafi.aqila.hidayat/viz/bank_loan_17405490577190/SUMMARY
 
 ## SQL Queries for Data Validation
