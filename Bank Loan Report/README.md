@@ -9,6 +9,7 @@ The dashboard leverages the bank loan data stored in the bank_loan table, which 
 <img width="1366" alt="Screenshot 2025-02-26 at 13 29 27" src="https://github.com/user-attachments/assets/556ffc44-1aed-46e8-a57a-09f5bef695c0" />
 The Summary Dashboard provides high-level KPIs for loan applications, funded amounts, and received amounts, as well as the average interest rate and Debt-to-Income (DTI) ratio. It also compares the performance of "Good Loans" (Fully Paid or Current) versus "Bad Loans" (Charged Off).
 Key Metrics:
+- pizzeriadashboard_staff.sql: SQL queries to analyze staff shifts, working hours, and calculate staff cost per shift.
 - Total Loan Applications
 - Total Funded Amount
 - Total Amount Received
