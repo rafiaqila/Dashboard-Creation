@@ -3,18 +3,6 @@
 ## Overview
 This repository contains a data analysis and visualization project focused on London bike sharing data from https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data. The interactive dashboard was created using Tableau, with data preprocessing performed using Python in Jupyter Notebook.
 
-## Project Structure
-.
-├── data/
-│   └── london_bike_data.csv        # Cleaned dataset after preprocessing
-├── notebooks/
-│   └── data_cleaning.ipynb         # Jupyter Notebook used to preprocess the raw dataset
-├── tableau/
-│   └── london_bike_sharing.twb  # Tableau workbook file
-├── images/
-│   └── london_bike_sharing_dashboard_preview.png       # Screenshot of the Tableau dashboard
-└── README.md                       # Project documentation
-
 ## Data Preprocessing
 Before visualization, the raw dataset was cleaned and prepared in a Jupyter Notebook (data_cleaning.ipynb). Key steps included:
 - Renaming columns
