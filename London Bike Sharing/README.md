@@ -6,7 +6,7 @@ This repository contains a data analysis and visualization project focused on Lo
 ## Data Preprocessing
 Before visualization, the raw dataset was cleaned and prepared in a Jupyter Notebook (data_cleaning.ipynb). Key steps included:
 - Renaming columns
-- Transforming column data types
+- Transforming few column data types
 
 The resulting clean dataset was exported and imported into Tableau for visualization.
 
